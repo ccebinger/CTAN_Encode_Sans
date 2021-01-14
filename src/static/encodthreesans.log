@@ -1,0 +1,1044 @@
+
+
+############################################################################
+
+
+[2021-01-14 20:17:53]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=EncodeSansCondensed -encoding=OT1,T1,TS1,LY1 Encod3Sans-Black.otf Encod3Sans-Bold.otf Encod3Sans-ExtraBold.otf Encod3Sans-ExtraLight.otf Encod3Sans-Light.otf Encod3Sans-Medium.otf Encod3Sans-Regular.otf Encod3Sans-SemiBold.otf Encod3Sans-Thin.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               sf (sanserif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Encod3Sans-Black.otf
+        Name:       Encod3Sans-Black
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     black (900)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Bold.otf
+        Name:       Encod3Sans-Bold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-ExtraBold.otf
+        Name:       Encod3Sans-ExtraBold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     extrabold (800)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-ExtraLight.otf
+        Name:       Encod3Sans-ExtraLight
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     extralight (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Light.otf
+        Name:       Encod3Sans-Light
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Medium.otf
+        Name:       Encod3Sans-Medium
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     medium (500)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Regular.otf
+        Name:       Encod3Sans-Regular
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-SemiBold.otf
+        Name:       Encod3Sans-SemiBold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Thin.otf
+        Name:       Encod3Sans-Thin
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     thin (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  thin
+    el  =>  extralight
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  extrabold
+    ub  =>  black
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Black.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-ExtraBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-ExtraLight.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Medium.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Thin.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+
+############################################################################
+
+
+[2021-01-14 20:19:32]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=encodesans -encoding=OT1,T1,TS1,LY1 Encod3Sans-Black.otf Encod3Sans-Bold.otf Encod3Sans-ExtraBold.otf Encod3Sans-ExtraLight.otf Encod3Sans-Light.otf Encod3Sans-Medium.otf Encod3Sans-Regular.otf Encod3Sans-SemiBold.otf Encod3Sans-Thin.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               sf (sanserif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Encod3Sans-Black.otf
+        Name:       Encod3Sans-Black
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     black (900)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Bold.otf
+        Name:       Encod3Sans-Bold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-ExtraBold.otf
+        Name:       Encod3Sans-ExtraBold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     extrabold (800)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-ExtraLight.otf
+        Name:       Encod3Sans-ExtraLight
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     extralight (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Light.otf
+        Name:       Encod3Sans-Light
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     light (300)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Medium.otf
+        Name:       Encod3Sans-Medium
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     medium (500)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Regular.otf
+        Name:       Encod3Sans-Regular
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-SemiBold.otf
+        Name:       Encod3Sans-SemiBold
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     semibold (600)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+    Encod3Sans-Thin.otf
+        Name:       Encod3Sans-Thin
+        Family:     EncodThreeSans
+        Subfamily:  
+        Weight:     thin (250)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   aalt, c2sc, case, ccmp, dlig, dnom, frac, kern, lnum, mark, mkmk, numr, onum, ordn, pnum, sinf, smcp, subs, sups, tnum
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  thin
+    el  =>  extralight
+    l   =>  light
+    sl  =>  
+    m   =>  regular
+    sb  =>  semibold
+    b   =>  bold
+    eb  =>  extrabold
+    ub  =>  black
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Black.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-ExtraBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-ExtraLight.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Light.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Medium.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-SemiBold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
+
+    ------------------------------------------------------------------------
+
+    Encod3Sans-Thin.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     LF      n       kern, lnum, pnum
+            LY1     LF      sc      kern, lnum, pnum, smcp
+            LY1     OsF     n       kern, onum, pnum
+            LY1     OsF     sc      kern, onum, pnum, smcp
+            LY1     Sup     n       sups
+            LY1     TLF     n       kern, lnum, tnum
+            LY1     TLF     sc      kern, lnum, smcp, tnum
+            LY1     TOsF    n       kern, onum, tnum
+            LY1     TOsF    sc      kern, onum, smcp, tnum
+            OT1     LF      n       kern, lnum, pnum
+            OT1     LF      sc      kern, lnum, pnum, smcp
+            OT1     OsF     n       kern, onum, pnum
+            OT1     OsF     sc      kern, onum, pnum, smcp
+            OT1     Sup     n       sups
+            OT1     TLF     n       kern, lnum, tnum
+            OT1     TLF     sc      kern, lnum, smcp, tnum
+            OT1     TOsF    n       kern, onum, tnum
+            OT1     TOsF    sc      kern, onum, smcp, tnum
+            T1      LF      n       kern, lnum, pnum
+            T1      LF      sc      kern, lnum, pnum, smcp
+            T1      OsF     n       kern, onum, pnum
+            T1      OsF     sc      kern, onum, pnum, smcp
+            T1      Sup     n       sups
+            T1      TLF     n       kern, lnum, tnum
+            T1      TLF     sc      kern, lnum, smcp, tnum
+            T1      TOsF    n       kern, onum, tnum
+            T1      TOsF    sc      kern, onum, smcp, tnum
+            TS1     LF      n       onum, pnum
+            TS1     OsF     n       onum, pnum
+            TS1     TLF     n       onum, tnum
+            TS1     TOsF    n       onum, tnum
